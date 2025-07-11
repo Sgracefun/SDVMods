@@ -1,0 +1,10 @@
+{
+    "Name": "EnergyTonicFixed",
+    "Author": "Sgracefun",
+    "Version": "1.0.0",
+    "Description": "Allows Energy Tonic to fill health again",
+    "UniqueID": "Sgracefun.EnergyTonicFixed",
+    "EntryDll": "EnergyTonicFixed.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
